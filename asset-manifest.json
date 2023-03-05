@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/nioclasTask_Utkarsh/static/css/main.498f74fa.css",
+    "main.js": "/nioclasTask_Utkarsh/static/js/main.72eb1bc9.js",
+    "index.html": "/nioclasTask_Utkarsh/index.html",
+    "main.498f74fa.css.map": "/nioclasTask_Utkarsh/static/css/main.498f74fa.css.map",
+    "main.72eb1bc9.js.map": "/nioclasTask_Utkarsh/static/js/main.72eb1bc9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.498f74fa.css",
+    "static/js/main.72eb1bc9.js"
+  ]
+}
